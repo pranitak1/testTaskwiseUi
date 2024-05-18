@@ -2,4 +2,4 @@
   # Navigate to the taskwise subfolder before running the build command
   command = "cd taskwise && npm run build"
   # Set the publish directory within the taskwise subfolder
-  publish = "taskwise/public/"
+  publish = "taskwise/build/"
