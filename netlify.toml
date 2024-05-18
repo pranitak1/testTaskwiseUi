@@ -1,0 +1,4 @@
+[build]
+  base = "taskwise"
+  command = "npm run build"
+  publish = "taskwise/build"
